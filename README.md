@@ -7,3 +7,7 @@ The goal is to create a program that places a button under your cursor so you ca
 
 ## Visuals
 -Ethan: I will be adding visuals to the project
+
+## Audio
+I will add: 
+* music ( MySpace style ) 
